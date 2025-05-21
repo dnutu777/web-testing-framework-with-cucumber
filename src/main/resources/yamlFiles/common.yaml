@@ -1,0 +1,6 @@
+# common.yaml
+env: dev
+browser: chrome
+headless: false
+useGrid: false
+gridUrl: "http://localhost:4444"

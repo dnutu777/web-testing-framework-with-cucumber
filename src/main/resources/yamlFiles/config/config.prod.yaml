@@ -1,0 +1,4 @@
+webAppUrl: "https://the-internet.herokuapp.com/PROD"
+credentials:
+  user: "uat_user@example.com"
+  password: "uat_password_base64"
